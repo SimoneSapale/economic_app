@@ -32,12 +32,10 @@ economic_app/
 
 ## Setup and Running
 
-### Using Docker 
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/SimoneSapale/economic_app.git 
-   cd latvian_economy_app
+   cd economic_app 
    ```
 
 2. Build and run the Docker container:
